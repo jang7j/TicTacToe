@@ -1,0 +1,12 @@
+C:\Users\hwait\Desktop\repos\TicTacToe\BoardLogic\obj\Debug\net6.0\BoardLogic.csproj.AssemblyReference.cache
+C:\Users\hwait\Desktop\repos\TicTacToe\BoardLogic\obj\Debug\net6.0\BoardLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwait\Desktop\repos\TicTacToe\BoardLogic\obj\Debug\net6.0\BoardLogic.AssemblyInfoInputs.cache
+C:\Users\hwait\Desktop\repos\TicTacToe\BoardLogic\obj\Debug\net6.0\BoardLogic.AssemblyInfo.cs
+C:\Users\hwait\Desktop\repos\TicTacToe\BoardLogic\obj\Debug\net6.0\BoardLogic.csproj.CoreCompileInputs.cache
+C:\Users\hwait\Desktop\repos\TicTacToe\BoardLogic\bin\Debug\net6.0\BoardLogic.deps.json
+C:\Users\hwait\Desktop\repos\TicTacToe\BoardLogic\bin\Debug\net6.0\BoardLogic.dll
+C:\Users\hwait\Desktop\repos\TicTacToe\BoardLogic\bin\Debug\net6.0\BoardLogic.pdb
+C:\Users\hwait\Desktop\repos\TicTacToe\BoardLogic\obj\Debug\net6.0\BoardLogic.dll
+C:\Users\hwait\Desktop\repos\TicTacToe\BoardLogic\obj\Debug\net6.0\refint\BoardLogic.dll
+C:\Users\hwait\Desktop\repos\TicTacToe\BoardLogic\obj\Debug\net6.0\BoardLogic.pdb
+C:\Users\hwait\Desktop\repos\TicTacToe\BoardLogic\obj\Debug\net6.0\ref\BoardLogic.dll
